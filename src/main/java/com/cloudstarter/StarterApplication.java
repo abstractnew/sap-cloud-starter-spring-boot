@@ -6,7 +6,6 @@ import org.springframework.boot.builder.SpringApplicationBuilder;
 import org.springframework.boot.web.support.SpringBootServletInitializer;
 import org.springframework.context.annotation.ComponentScan;
 
-//@ComponentScan(basePackages={"com.xejic.sap.controllers"})
 @SpringBootApplication
 public class StarterApplication extends SpringBootServletInitializer {
 	
